@@ -5,7 +5,9 @@ https://support.hpe.com/connect/s/search?language=en_US#q=HP%20Smart%20Array%20P
 
 
 # old versions:
+- https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_993349aa061b4897b5ae4d212e
 - https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_5e52f965d84f41c2bb65d33b58
 
 # index:
 - 6.64 (B) https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX_d8c54fe214684cf0b6e68f8f44
+- 5.14 (B) https://support.hpe.com/connect/s/softwaredetails?language=en_US&softwareId=MTX_c8519133fed54febbedd7ecab9
