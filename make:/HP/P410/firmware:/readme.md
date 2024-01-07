@@ -1,1 +1,8 @@
 sch: https://www.google.com/search?q=hp+p410+firmware
+
+# Home:
+https://support.hpe.com/connect/s/search?language=en_US#q=HP%20Smart%20Array%20P410i%20Controller&t=DriversandSoftware&sort=relevancy&numberOfResults=25
+
+
+# index:
+- 6.64 (B) https://support.hpe.com/hpesc/public/swd/detail?swItemId=MTX_d8c54fe214684cf0b6e68f8f44
